@@ -1,0 +1,22 @@
+start project with:
+django-admin startproject [project_name]
+
+run server with:
+python manage.py runserver 
+
+asgi: async support
+settings: core project config 
+urls: for routing
+wsgi: for server
+db.sqlite: database
+
+start app with:
+python manage.py startapp [application]
+    # add application to settings
+
+
+create apps
+
+views for rendering web page
+models for 
+
